@@ -1,0 +1,65 @@
+{
+  "skill_name": "niche-research",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I want to build a SaaS product for HVAC contractors. Do a deep niche research on this market - what are their biggest pain points, where do they hang out online, what software do they currently use and hate, and what's the best product I could build for them?",
+      "expected_output": "A comprehensive markdown report covering the HVAC contractor market with specific pain points sourced from Reddit/forums, competitive landscape of existing tools (ServiceTitan, Housecall Pro, etc.), community locations, industry terminology, and a concrete software opportunity with pricing and go-to-market strategy.",
+      "files": [],
+      "expectations": [
+        "A markdown report file was saved to the outputs directory",
+        "The report is at least 2000 words long",
+        "The report identifies at least 5 distinct pain points",
+        "The report includes actual quoted language from real users",
+        "The report lists specific online communities",
+        "The report analyzes at least 3 existing software tools by name",
+        "The report proposes a concrete software product with specific features",
+        "The report includes a pricing strategy",
+        "The report includes go-to-market strategy",
+        "The report includes industry-specific terminology",
+        "The report contains specific data points (not just generalizations)",
+        "The report mentions specific conferences, events, podcasts, or influencers"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Research the independent music venue industry for me. I'm thinking about building software for small-to-mid-size concert venues and want to understand their world - problems, tools, language, everything. Give me the full breakdown.",
+      "expected_output": "A comprehensive markdown report covering independent music venues with pain points around booking, ticketing, sound management, and operations. Should include venue-specific terminology, relevant subreddits and communities, existing tools and their shortcomings, and a software opportunity tailored to this underserved market.",
+      "files": [],
+      "expectations": [
+        "A markdown report file was saved to the outputs directory",
+        "The report is at least 2000 words long",
+        "The report identifies at least 5 distinct pain points",
+        "The report includes actual quoted language from real users",
+        "The report lists specific online communities",
+        "The report analyzes at least 3 existing software tools by name",
+        "The report proposes a concrete software product with specific features",
+        "The report includes a pricing strategy",
+        "The report includes go-to-market strategy",
+        "The report includes industry-specific terminology",
+        "The report contains specific data points (not just generalizations)",
+        "The report mentions specific conferences, events, podcasts, or influencers"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "I'm exploring the veterinary clinic space as a potential market. Can you do a deep dive into what independent vet practices struggle with day-to-day? I want to know their tech stack, what frustrates them, how they talk about their problems, and where I could build something they'd actually pay for.",
+      "expected_output": "A comprehensive markdown report on independent veterinary practices covering practice management pain points, existing software (eVetPractice, Cornerstone, etc.), vet-specific terminology and workflows, online communities, and a concrete SaaS opportunity that addresses gaps in current solutions.",
+      "files": [],
+      "expectations": [
+        "A markdown report file was saved to the outputs directory",
+        "The report is at least 2000 words long",
+        "The report identifies at least 5 distinct pain points",
+        "The report includes actual quoted language from real users",
+        "The report lists specific online communities",
+        "The report analyzes at least 3 existing software tools by name",
+        "The report proposes a concrete software product with specific features",
+        "The report includes a pricing strategy",
+        "The report includes go-to-market strategy",
+        "The report includes industry-specific terminology",
+        "The report contains specific data points (not just generalizations)",
+        "The report mentions specific conferences, events, podcasts, or influencers"
+      ]
+    }
+  ]
+}

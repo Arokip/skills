@@ -1,0 +1,23 @@
+{
+  "skill_name": "ifrs-17-insurance-contracts",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "We have a portfolio of 5-year endowment contracts with a guaranteed maturity benefit and annual premium payments. The contracts also pay a discretionary bonus based on the insurer's investment returns. At initial recognition, the fulfilment cash flows are negative (net inflow). Walk me through: (1) which measurement model applies and why, (2) how to determine the CSM at initial recognition, (3) how to handle the discretionary bonus in subsequent measurement, and (4) how the CSM gets released to profit or loss over the coverage period.",
+      "expected_output": "Should identify VFA as likely applicable (DPF features — policyholder participates in underlying items), explain CSM calibration at initial recognition, discuss B98-B100 for discretionary cash flows, and explain coverage units for CSM release including both insurance coverage and investment-return/investment-related service per B119.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "Our company is transitioning to IFRS 17 from IFRS 4. For one portfolio of long-duration life insurance contracts issued 15 years ago, we don't have reliable historical data to apply the full retrospective approach. What are our options? For the modified retrospective approach specifically, how do we estimate the CSM at the transition date, and what simplifications are available for discount rates and the risk adjustment?",
+      "expected_output": "Should explain the three transition approaches (C3-C5), detail the modified retrospective approach (C6-C19A) including: estimating future cash flows at transition adjusted for known cash flows (C12), discount rate options using observable yield curves or average spread method over 3+ years (C13), risk adjustment estimation by reference to similar contracts (C14), and CSM calculation from initial recognition CSM with interest accretion and service provided before transition (C15).",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "We hold a quota share reinsurance contract that covers 40% of claims on a group of underlying insurance contracts. The underlying group has just become onerous — we recognised a loss of CU500. How do we account for the reinsurance contract held? Specifically: (1) what happens to the reinsurance CSM, (2) how is the loss-recovery component determined, and (3) what are the presentation requirements for reinsurance in the financial statements?",
+      "expected_output": "Should explain loss recovery mechanism (paragraphs 66A-66B), calculate loss-recovery component (40% of CU500 = CU200 adjustment to reinsurance CSM and income recognition), explain B119C-B119F for loss-recovery component tracking, and detail presentation requirements from paragraphs 82, 86 including the option to present net or gross with sub-items (a)-(c).",
+      "files": []
+    }
+  ]
+}
