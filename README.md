@@ -1,0 +1,1 @@
+Skills for Claude Code that I created because I did now find any better for this purpose.
